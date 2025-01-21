@@ -1,0 +1,22 @@
+Is HTML a programming language?
+A. True
+B. False
+ANSWER: B
+
+Which of the following are programming languages? Python, Ada, Sliver, Rum, Oxygen, Eso
+A. Python
+B. Ada
+C. Sliver
+D. Rum
+E. Oxygen
+F. Eso
+ANSWER: A, B
+
+What does this code print out?
+<code lang="python">
+print("Hello")
+</code>
+A. Hello
+B. elloH
+C. None of the above
+ANSWER: A
