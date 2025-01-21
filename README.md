@@ -9,13 +9,12 @@ It displays no numbering on the questions and shuffles the answers. A single wro
 
 Question Bank TXT format is as follows:
 
-QUESTION TEXT
-A. AnswerA
-B. AnswerB
-C. AnswerC
-D. AnswerD
-ANSWER: A, C
-
+QUESTION TEXT\n
+A. AnswerA\n
+B. AnswerB\n
+C. AnswerC\n
+D. AnswerD\n
+ANSWER: A, C\n\n
 QUESTION TEXT
 ....
 
