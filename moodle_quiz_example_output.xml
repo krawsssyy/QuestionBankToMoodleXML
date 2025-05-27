@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <question type="multichoice">
+        <name>
+            <text>Quiz Question</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<pre style="font-family: inherit;">Is HTML a programming language?</pre>]]></text>
+        </questiontext>
+        <defaultgrade>1.0000000</defaultgrade>
+        <hidden>0</hidden>
+        <single>true</single>
+        <shuffleanswers>1</shuffleanswers>
+        <answernumbering>none</answernumbering>
+        <answer fraction="0">
+            <text>True</text>
+        </answer>
+        <answer fraction="100.000000000">
+            <text>False</text>
+        </answer>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>Quiz Question</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<pre style="font-family: inherit;">Which of the following are programming languages? Python, Ada, Sliver, Rum, Oxygen, Eso</pre>]]></text>
+        </questiontext>
+        <defaultgrade>1.0000000</defaultgrade>
+        <hidden>0</hidden>
+        <single>false</single>
+        <shuffleanswers>1</shuffleanswers>
+        <answernumbering>none</answernumbering>
+        <answer fraction="50.000000000">
+            <text>Python</text>
+        </answer>
+        <answer fraction="50.000000000">
+            <text>Ada</text>
+        </answer>
+        <answer fraction="-100">
+            <text>Sliver</text>
+        </answer>
+        <answer fraction="-100">
+            <text>Rum</text>
+        </answer>
+        <answer fraction="-100">
+            <text>Oxygen</text>
+        </answer>
+        <answer fraction="-100">
+            <text>Eso</text>
+        </answer>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>Quiz Question</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<pre style="font-family: inherit;">What does this code print out?
+<img src="data:image/png;base64,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" alt="Code snippet" /></pre>]]></text>
+        </questiontext>
+        <defaultgrade>1.0000000</defaultgrade>
+        <hidden>0</hidden>
+        <single>true</single>
+        <shuffleanswers>1</shuffleanswers>
+        <answernumbering>none</answernumbering>
+        <answer fraction="100.000000000">
+            <text>Hello</text>
+        </answer>
+        <answer fraction="0">
+            <text>elloH</text>
+        </answer>
+        <answer fraction="0">
+            <text>None of the above</text>
+        </answer>
+    </question>
+
+    <question type="essay">
+        <name>
+            <text>Quiz Question</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<pre style="font-family: inherit;">Write your name below:</pre>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text></text>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber></idnumber>
+        <responseformat>editor</responseformat>
+        <responserequired>1</responserequired>
+        <responsefieldlines>10</responsefieldlines>
+        <minwordlimit></minwordlimit>
+        <maxwordlimit></maxwordlimit>
+        <attachments>0</attachments>
+        <attachmentsrequired>0</attachmentsrequired>
+    </question>
+
+</quiz>
